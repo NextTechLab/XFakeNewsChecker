@@ -5,7 +5,7 @@ Made by Niladri Shekhar Dutt, Rounak Dutta, Arko Chatterjee and Saurav Saha
 
 ## Problem Statement
 
-Often sensational news is created and spread through social media to achieve intended end. On the other hand, it may also involve narration of a true fact however being deliberately exaggerated. This may also affect the affect the importance of serious news media. The problem is to identify the authenticity of the news and online content. Equally important problem is to identify the bots involved in spreading false news.
+Often sensational news is created and spread through social media to achieve intended end. On the other hand, it may also involve narration of a true fact however being deliberately exaggerated. This may also affect the importance of serious news media. The problem is to identify the authenticity of the news and online content. Equally important problem is to identify the bots involved in spreading false news.
 
 ![Alt Text](https://github.com/rounakdatta/Xcheck/blob/master/src/demo.gif)
 

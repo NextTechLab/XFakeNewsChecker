@@ -1,5 +1,5 @@
 Made by Niladri Shekhar Dutt, Rounak Dutta, Arko Chatterjee and Saurav Saha
-# SRM IET Hackathon 2018 | Team 10 - NightOwls
+# SRM IET Hackathon 2018 | Team 10 - NightOwls - The project won the 2nd place at SRM IET Hackathon 2018
 
 [Demo video](https://www.youtube.com/watch?v=aZzxZA_KfXY&feature=youtu.be)<br>
 
